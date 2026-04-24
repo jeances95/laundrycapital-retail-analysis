@@ -28,14 +28,14 @@ Python, SQL Server, Power BI
 
 - Self Service is the top-performing service, generating approximately $0.50M in revenue, outperforming both Drop-Off and Pick-Up & Delivery services.
 
-- Revenue remains relatively stable throughout 2026, fluctuating between ~$100K and ~$122K monthly, with noticeable peaks around May and October. :contentReference[oaicite:0]{index=0}
+- Revenue remains relatively stable throughout 2026, fluctuating between ~$100K and ~$122K monthly, with noticeable peaks around May and October.
 
-- Store performance is fairly concentrated, with the top 5 stores (e.g., Hartford, Worcester, Cleveland) each generating over $42K, indicating consistent high performers across locations. :contentReference[oaicite:1]{index=1}
+- Store performance is fairly concentrated, with the top 5 stores (e.g., Hartford, Worcester, Cleveland) each generating over $42K, indicating consistent high performers across locations.
 
-- Average revenue per store is ~$40.85K and per customer ~$4.36K, showing a balanced distribution of revenue across both locations and customer base. :contentReference[oaicite:2]{index=2}
+- Average revenue per store is ~$40.85K and per customer ~$4.36K, showing a balanced distribution of revenue across both locations and customer base.
 
-- Customer activity is strong, with an average of 48 transactions per customer, suggesting a mix of recurring and loyal customers. :contentReference[oaicite:3]{index=3}
+- Customer activity is strong, with an average of 48 transactions per customer, suggesting a mix of recurring and loyal customers.
 
-- Geographic distribution shows revenue spread across multiple cities, with no single city overwhelmingly dominating, indicating a diversified market presence. :contentReference[oaicite:4]{index=4}
+- Geographic distribution shows revenue spread across multiple cities, with no single city overwhelmingly dominating, indicating a diversified market presence. 
 
 - Given the strong performance of Self Service, expanding capacity or optimizing pricing for this service could further increase overall revenue.
