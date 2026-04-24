@@ -66,4 +66,14 @@ stores.to_sql("dim_stores", engine, if_exists="replace", index=False)
 services.to_sql("dim_services", engine, if_exists="replace", index=False)
 sales.to_sql("fact_sales", engine, if_exists="replace", index=False)
 
-print("ETL completed successfully 🚀")
+print("ETL completed successfully")
+
+# -----------------------------
+# SAVE PROCESSED DATA
+# -----------------------------
+customers.to_excel("data/processed/customers_clean.xlsx", index=False)
+stores.to_excel("data/processed/stores_clean.xlsx", index=False)
+services.to_excel("data/processed/services_clean.xlsx", index=False)
+sales.to_excel("data/processed/sales_clean.xlsx", index=False)
+
+print("Processed data saved successfully")
